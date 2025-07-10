@@ -160,7 +160,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](path/to/your/dashboard-image.png)
+![Dashboard Screenshot](https://github.com/HassanAliKhan157/Movies_Data_Analysis_Project_PowerBI-MySQL/blob/main/Movies_Insights_Dashboard.png)
 
 ## Source of Data
 
